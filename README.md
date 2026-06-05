@@ -42,4 +42,3 @@ Projenin kök dizini (`atlasmusiclibrary`) ve alt klasör mimarisi aşağıdaki 
  ┣ 📜 index.php             # Anasayfaya yönlendirici kök dosya
  ┣ 📜 islem.php             # Formların (Ekle/Sil/Güncelle) işlendiği arka plan motoru
  ┣ 📜 kayit.php             # Yeni kullanıcı kayıt ekranı
- ┗ 📜 vtbaglanti.php        # Veritabanı bağlantı ayarları
