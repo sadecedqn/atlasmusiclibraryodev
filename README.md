@@ -1,4 +1,4 @@
-https://atlasmusiclibraryodev.gt.tc
+http://atlasmusiclibrary.gameportal.com.tr
 
 # 🎵 Atlas Music Library
 
